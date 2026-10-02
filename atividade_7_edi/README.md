@@ -18,9 +18,3 @@ Para compilar e executar este projeto, você precisará de:
 *   Compilador C (como o `gcc`).
 *   Biblioteca **raylib** instalada e configurada no seu sistema.
 
-## ⚙️ Como Compilar
-
-No Linux (com a raylib instalada), abra o terminal na pasta do arquivo e execute o comando abaixo:
-
-```bash
-gcc atividade7.c -o atividade7 -lraylib -lm -lpthread -ldl -lrt -lX11
